@@ -1,7 +1,0 @@
-num = int(input('Digite um valor para saber sua tabuada: '))
-mult = 1
-
-while mult <= 10:
-  res = num * mult
-  print(f'{num} * {mult:2} = {res}')
-  mult += 1
